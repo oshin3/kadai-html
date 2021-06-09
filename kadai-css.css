@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+/* チャプター：メインとサイドバー（2カラムレイアウト） */
+#wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#main {
+    width: 700px;
+}
+
+#global_navi {
+    width: 300px;
+}
