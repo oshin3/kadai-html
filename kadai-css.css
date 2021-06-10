@@ -8,10 +8,24 @@
     justify-content: space-between;
 }
 
-#main {
-    width: 700px;
+header {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ffcccc;
 }
 
-#global_navi {
+#main {
+    width: 700px;
+    background-color: #ccffcc;
+}
+
+#menu {
     width: 300px;
+    background-color: #ccccff;
+}
+
+footer {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ffccff;
 }
